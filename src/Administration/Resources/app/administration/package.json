@@ -179,7 +179,7 @@
     "sass-loader": "8.0.2",
     "semver": "6.3.0",
     "string-replace-loader": "^2.3.0",
-    "stylelint": "14.16.0",
+    "stylelint": "15.10.1",
     "stylelint-config-standard": "^26.0.0",
     "stylelint-config-standard-scss": "^5.0.0",
     "stylelint-webpack-plugin": "2.4.0",
